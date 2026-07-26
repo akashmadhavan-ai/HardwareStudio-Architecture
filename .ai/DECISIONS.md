@@ -308,6 +308,26 @@ Defining extension framework requirements across 16 plugin categories, 11 lifecy
 2. Defined explicit plugin capabilities for process-isolated Inter-Process Communication (IPC), manifest-based registration, least-privilege RBAC sandboxing, fault-tolerant crash isolation, and open marketplace integration.
 3. Established a complete 26-row Requirement Traceability Matrix linking all plugin requirements to parent System (`REQ-SYS-XXX`), Functional (`REQ-FUNC-XXX`), Non-Functional (`REQ-NFR-XXX`), and AI (`REQ-AI-XXX`) requirements.
 
+---
+
+## DEC-017: Simulation Requirements Completed
+
+- **Status**: Accepted / Frozen
+- **Date**: 2026-07-26
+- **Task**: `TASK-021`
+- **Impacted Components**: `Requirements Engineering Milestone`, `Simulation Requirements`
+
+### Context
+
+Defining simulation engine capabilities across 15 simulation categories, multi-body assembly kinematics, 0.01mm 3D collision detection, dynamic clearance auditing, rigid body physics integration, state-machine behavior synchronization, and structured reporting (`REQ-SIM-001` through `REQ-SIM-024`).
+
+### Decision
+
+1. Authored and froze [007_SIMULATION_REQUIREMENTS.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/003_Requirements/007_SIMULATION_REQUIREMENTS.md).
+2. Defined explicit simulation capabilities for multi-body hierarchy motion, kinematic joint limits, sub-millimeter 3D mesh collisions, enclosure clearances, modular physics solver abstractions, and digital twin stream ingestion.
+3. Established a complete 24-row Requirement Traceability Matrix linking all simulation requirements to parent System (`REQ-SYS-XXX`), Functional (`REQ-FUNC-XXX`), Non-Functional (`REQ-NFR-XXX`), AI (`REQ-AI-XXX`), and Plugin (`REQ-PLUG-XXX`) requirements.
+
+
 
 
 
