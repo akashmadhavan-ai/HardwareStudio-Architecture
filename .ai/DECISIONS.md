@@ -289,6 +289,26 @@ Establishing model-independent AI assistant requirements across 14 AI functional
 2. Defined explicit AI functional and operational capabilities for CAD Assistant, Assembly Assistant, Documentation Assistant, Simulation Assistant, Multi-Agent Coordinator, and Project Memory engines.
 3. Established a complete 25-row Requirement Traceability Matrix linking all AI requirements to parent System (`REQ-SYS-XXX`), Functional (`REQ-FUNC-XXX`), and Non-Functional (`REQ-NFR-XXX`) requirements.
 
+---
+
+## DEC-016: Plugin Requirements Completed
+
+- **Status**: Accepted / Frozen
+- **Date**: 2026-07-26
+- **Task**: `TASK-020`
+- **Impacted Components**: `Requirements Engineering Milestone`, `Plugin Requirements`
+
+### Context
+
+Defining extension framework requirements across 16 plugin categories, 11 lifecycle stages, process isolation, RBAC sandboxing, version migration, marketplace interfaces, and third-party tool integrations (CadQuery, FreeCAD, Blender, OpenCascade, Three.js, Babylon.js, OpenUSD, ROS 2, Gazebo, Ollama, OpenAI, MCP Servers) (`REQ-PLUG-001` through `REQ-PLUG-026`).
+
+### Decision
+
+1. Authored and froze [006_PLUGIN_REQUIREMENTS.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/003_Requirements/006_PLUGIN_REQUIREMENTS.md).
+2. Defined explicit plugin capabilities for process-isolated Inter-Process Communication (IPC), manifest-based registration, least-privilege RBAC sandboxing, fault-tolerant crash isolation, and open marketplace integration.
+3. Established a complete 26-row Requirement Traceability Matrix linking all plugin requirements to parent System (`REQ-SYS-XXX`), Functional (`REQ-FUNC-XXX`), Non-Functional (`REQ-NFR-XXX`), and AI (`REQ-AI-XXX`) requirements.
+
+
 
 
 
