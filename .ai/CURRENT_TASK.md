@@ -1,8 +1,8 @@
 # Current Engineering Task
 
 - **Milestone**: Requirements Engineering
-- **Task ID**: `TASK-035`
-- **Task Name**: Notification Requirements
+- **Task ID**: `TASK-036`
+- **Task Name**: Configuration Requirements
 - **Priority**: HIGH
 - **Status**: IN_PROGRESS
 - **Assigned To**: HardwareStudio Engineering Team & AI Agent
@@ -11,16 +11,16 @@
 
 ## Objective
 
-Create the Notification Requirements document (`docs/003_Requirements/021_NOTIFICATION_REQUIREMENTS.md`) defining real-time DRC/CAD event alerts, simulation completion notifications, stage-gate sign-off dispatches, AI respin risk alerts, user preference filtering & quiet hours, delivery retry policies, sub-500ms critical alert latency, and requirement traceability matrix for Milestone 3 (Requirements Engineering). Update the AI Workspace (`CURRENT_TASK.md`, `MEMORY.md`, `DECISIONS.md`, `TASK_HISTORY.md`).
+Create the Configuration Requirements document (`docs/003_Requirements/022_CONFIGURATION_REQUIREMENTS.md`) defining global platform defaults & module flags, system recovery & rollback, project starter templates & variables, AI model selection & context boundaries, AI safety guardrails, workflow trigger rules, ECO approval policies, declarative schema validation, versioned snapshots, encrypted secrets storage, and requirement traceability matrix for Milestone 3 (Requirements Engineering). Update the AI Workspace (`CURRENT_TASK.md`, `MEMORY.md`, `DECISIONS.md`, `TASK_HISTORY.md`).
 
 ---
 
 ## Current Activity
 
-- Author `021_NOTIFICATION_REQUIREMENTS.md` with all 22 required section headings.
-- Record DEC-031 in `.ai/DECISIONS.md`.
+- Author `022_CONFIGURATION_REQUIREMENTS.md` with all 22 required section headings.
+- Record DEC-032 in `.ai/DECISIONS.md`.
 - Update `.ai/MEMORY.md` and `.ai/TASK_HISTORY.md`.
-- Perform Git workflow (`git add .`, `git commit -m "docs: add notification requirements"`, `git push`).
+- Perform Git workflow (`git add .`, `git commit -m "docs: add configuration requirements"`, `git push`).
 
 ---
 
@@ -32,4 +32,4 @@ Create the Notification Requirements document (`docs/003_Requirements/021_NOTIFI
 
 ## Next Task
 
-- `TASK-036`: Configuration Requirements
+- `TASK-037`: Deployment Requirements
