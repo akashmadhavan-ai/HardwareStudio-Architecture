@@ -517,6 +517,26 @@ Defining technology-independent engineering automation requirements across 16 au
 2. Defined explicit automation requirements for automated stage-gate routing, AI documentation compilation, production package export on release commits, scheduled background sweeps, failure isolation circuit breaking, and process-isolated script sandboxing.
 3. Established a complete 14-row Requirement Traceability Matrix linking all automation requirements to parent System (`REQ-SYS-XXX`), Functional (`REQ-FUNC-XXX`), Non-Functional (`REQ-NFR-XXX`), AI (`REQ-AI-XXX`), Plugin (`REQ-PLUG-XXX`), Simulation (`REQ-SIM-XXX`), Visualization (`REQ-VIS-XXX`), Digital Twin (`REQ-TWIN-XXX`), Data Management (`REQ-DATA-XXX`), Workflow (`REQ-WORK-XXX`), Security (`REQ-SEC-XXX`), Integration (`REQ-INT-XXX`), Project Management (`REQ-PM-XXX`), Manufacturing (`REQ-MFG-XXX`), and Collaboration (`REQ-COL-XXX`) requirements.
 
+---
+
+## DEC-028: Reporting Requirements Completed
+
+- **Status**: Accepted / Frozen
+- **Date**: 2026-07-26
+- **Task**: `TASK-032`
+- **Impacted Components**: `Requirements Engineering Milestone`, `Reporting Requirements`
+
+### Context
+
+Defining technology-independent engineering reporting requirements across 16 reporting categories, 10-step reporting workflow, automated multi-domain design & assembly summary compilation, event-driven & scheduled report generation, multi-format document export, version-controlled report archiving, real-time interactive executive dashboards, and AI natural language summary generation (`REQ-REP-001` through `REQ-REP-015`).
+
+### Decision
+
+1. Authored and froze [018_REPORTING_REQUIREMENTS.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/003_Requirements/018_REPORTING_REQUIREMENTS.md).
+2. Defined explicit reporting requirements for integrated simulation & DRC validation reports, customizable report templates, batch export dispatches, full-text search metadata indexing, role-tailored dashboard views, AI design decision reports, and encrypted storage with RBAC export controls.
+3. Established a complete 16-row Requirement Traceability Matrix linking all reporting requirements to parent System (`REQ-SYS-XXX`), Functional (`REQ-FUNC-XXX`), Non-Functional (`REQ-NFR-XXX`), AI (`REQ-AI-XXX`), Plugin (`REQ-PLUG-XXX`), Simulation (`REQ-SIM-XXX`), Visualization (`REQ-VIS-XXX`), Digital Twin (`REQ-TWIN-XXX`), Data Management (`REQ-DATA-XXX`), Workflow (`REQ-WORK-XXX`), Security (`REQ-SEC-XXX`), Integration (`REQ-INT-XXX`), Project Management (`REQ-PM-XXX`), Manufacturing (`REQ-MFG-XXX`), Collaboration (`REQ-COL-XXX`), and Automation (`REQ-AUTO-XXX`) requirements.
+
+
 
 
 
