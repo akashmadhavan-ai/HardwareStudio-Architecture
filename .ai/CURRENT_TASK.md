@@ -1,8 +1,8 @@
 # Current Engineering Task
 
-- **Milestone**: Research & Analysis (Completed) / Next: Milestone 3 - Requirements Engineering
-- **Task ID**: `TASK-014`
-- **Task Name**: Feasibility Study
+- **Milestone**: Requirements Engineering
+- **Task ID**: `TASK-015`
+- **Task Name**: User Requirements
 - **Priority**: HIGH
 - **Status**: IN_PROGRESS
 - **Assigned To**: HardwareStudio Engineering Team & AI Agent
@@ -11,18 +11,17 @@
 
 ## Objective
 
-Conduct a comprehensive Feasibility Study (`docs/002_Research/007_FEASIBILITY_STUDY.md`) evaluating technical, engineering, development, AI, visualization, simulation, digital twin, plugin, performance, scalability, maintainability, and commercial feasibility. Provide a definitive Go / No-Go recommendation and conclude Milestone 2 (Research & Analysis). Update the AI Workspace (`CURRENT_TASK.md`, `MEMORY.md`, `DECISIONS.md`, `TASK_HISTORY.md`).
+Create the User Requirements document (`docs/003_Requirements/001_USER_REQUIREMENTS.md`) establishing target users, user personas, primary engineering workflows, user expectations, and requirement traceability for Milestone 3 (Requirements Engineering). Update the AI Workspace (`CURRENT_TASK.md`, `MEMORY.md`, `DECISIONS.md`, `TASK_HISTORY.md`).
 
 ---
 
 ## Current Activity
 
-- Author `007_FEASIBILITY_STUDY.md` with all 28 required section headings and sub-sections.
-- Provide definitive GO recommendation.
-- Record DEC-010 in `.ai/DECISIONS.md`.
-- Conclude and freeze **Milestone 2 – Research & Analysis**.
+- Author `001_USER_REQUIREMENTS.md` with all 22 required section headings.
+- Record DEC-011 in `.ai/DECISIONS.md`.
+- Initiate **Milestone 3 – Requirements Engineering**.
 - Update `.ai/MEMORY.md` and `.ai/TASK_HISTORY.md`.
-- Perform Git workflow (`git add .`, `git commit -m "docs: add feasibility study"`, `git push`).
+- Perform Git workflow (`git add .`, `git commit -m "docs: add user requirements"`, `git push`).
 
 ---
 
@@ -34,4 +33,4 @@ Conduct a comprehensive Feasibility Study (`docs/002_Research/007_FEASIBILITY_ST
 
 ## Next Task
 
-- `TASK-015`: User Requirements (Initiating Milestone 3 – Requirements Engineering)
+- `TASK-016`: System Requirements

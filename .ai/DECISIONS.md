@@ -195,6 +195,26 @@ Evaluating Technical, Engineering, Development, AI, Visualization, Simulation, D
 3. Formally concluded and froze **Milestone 2 – Research & Analysis** (`001_MARKET_ANALYSIS.md` to `007_FEASIBILITY_STUDY.md`).
 4. Authorized progression to **Milestone 3 – Requirements Engineering** starting with `TASK-015: User Requirements`.
 
+---
+
+## DEC-011: Requirements Engineering Milestone Initiated & User Requirements Completed
+
+- **Status**: Accepted / Frozen
+- **Date**: 2026-07-26
+- **Task**: `TASK-015`
+- **Impacted Components**: `Requirements Engineering Milestone`, `User Requirements`
+
+### Context
+
+Defining explicit user personas, user categories, primary workflows, engineering goals, and traceable user requirements (`REQ-USER-001` through `REQ-USER-023`) to establish user expectations before system behavior and software architecture are defined.
+
+### Decision
+
+1. Initiated **Milestone 3 – Requirements Engineering**.
+2. Authored and froze [001_USER_REQUIREMENTS.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/003_Requirements/001_USER_REQUIREMENTS.md).
+3. Defined 14 user categories, 4 primary personas, 3 primary user goals, and 23 implementation-independent user requirements with 100% traceability to foundational goals and research specifications.
+
+
 
 
 

@@ -20,6 +20,7 @@ This document stores persistent architectural context, key engineering decisions
 - **2026-07-26 (TASK-012)**: Created and froze [005_TECHNOLOGY_ANALYSIS.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/002_Research/005_TECHNOLOGY_ANALYSIS.md) (v1.0) and recorded DEC-008 in `.ai/DECISIONS.md`. Evaluated 50+ programming languages, CAD engines, geometry formats, graphics backends, simulation tools, AI/MCP frameworks, APIs, databases, and deployment pipelines.
 - **2026-07-26 (TASK-013)**: Created and froze [006_GAP_ANALYSIS.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/002_Research/006_GAP_ANALYSIS.md) (v1.0) and recorded DEC-009 in `.ai/DECISIONS.md`. Synthesized prior research into 13 gap categories and 4 primary innovation vectors.
 - **2026-07-26 (TASK-014)**: Created and froze [007_FEASIBILITY_STUDY.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/002_Research/007_FEASIBILITY_STUDY.md) (v1.0) and recorded DEC-010 in `.ai/DECISIONS.md`. Delivered definitive **GO** recommendation and completed **Milestone 2 – Research & Analysis** (`001_MARKET_ANALYSIS.md` to `007_FEASIBILITY_STUDY.md`).
+- **2026-07-26 (TASK-015)**: Initiated **Milestone 3 – Requirements Engineering**. Created and froze [001_USER_REQUIREMENTS.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/003_Requirements/001_USER_REQUIREMENTS.md) (v1.0) and recorded DEC-011 in `.ai/DECISIONS.md`. Established 14 user categories, 4 detailed personas, primary engineering workflows, and 23 traceable user requirements (`REQ-USER-001` to `REQ-USER-023`).
 
 ---
 
@@ -27,7 +28,8 @@ This document stores persistent architectural context, key engineering decisions
 
 - All documentation in `docs/` is organized by numerical ordering (`001_Project/`, `002_Research/`, `003_Requirements/`, etc.).
 - The **Foundation Milestone** (`001_Project/` documents 001 to 006) is fully complete and frozen.
-- The **Research & Analysis Milestone** (`002_Research/` documents 001 to 007) is 100% complete and frozen. All findings serve as the authoritative baseline for Milestone 3 (Requirements Engineering).
+- The **Research & Analysis Milestone** (`002_Research/` documents 001 to 007) is 100% complete and frozen.
+- The **Requirements Engineering Milestone** (`003_Requirements/` documents) is active. Requirements specify implementation-independent user expectations and system behaviors.
 - Early foundation documents focus strictly on vision, goals, philosophy, problem statements, and requirements without locking into specific programming languages or software frameworks.
 
 ---
