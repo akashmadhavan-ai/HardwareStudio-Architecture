@@ -11,6 +11,7 @@ This document stores persistent architectural context, key engineering decisions
 - **2026-07-26 (TASK-003)**: Created and froze [002_PROJECT_GOALS.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/001_Project/002_PROJECT_GOALS.md) (v1.0). Defined 0% preventable respin targets, 3x velocity improvement, deterministic simulation, and real-time rule checking goals.
 - **2026-07-26 (TASK-004)**: Created and froze [003_PROJECT_PHILOSOPHY.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/001_Project/003_PROJECT_PHILOSOPHY.md) (v1.0). Defined core engineering philosophy: domain fidelity, determinism, clean code as communication, AI as an augmented intelligence multiplier, and zero-warning tolerance.
 - **2026-07-26 (TASK-005)**: Created and froze [004_PROBLEM_STATEMENT.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/001_Project/004_PROBLEM_STATEMENT.md) (v1.0) and initialized the AI Workspace under `.ai/`.
+- **2026-07-26 (TASK-006)**: Created and froze [005_PLATFORM_SCOPE.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/001_Project/005_PLATFORM_SCOPE.md) (v1.0) and recorded DEC-001 in `.ai/DECISIONS.md`. Established platform vs device repository boundaries.
 
 ---
 

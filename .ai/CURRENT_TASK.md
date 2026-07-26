@@ -1,8 +1,8 @@
 # Current Engineering Task
 
 - **Milestone**: Foundation
-- **Task ID**: `TASK-005`
-- **Task Name**: Problem Statement & AI Workspace Foundation
+- **Task ID**: `TASK-006`
+- **Task Name**: Platform Scope
 - **Priority**: HIGH
 - **Status**: IN_PROGRESS
 - **Assigned To**: HardwareStudio Engineering Team & AI Agent
@@ -11,16 +11,16 @@
 
 ## Objective
 
-Create the Problem Statement document (`docs/001_Project/004_PROBLEM_STATEMENT.md`) for the HardwareStudio Platform and establish the AI Workspace (`.ai/AGENTS.md`, `.ai/CURRENT_TASK.md`, `.ai/MEMORY.md`, `.ai/TASK_HISTORY.md`) to provide persistent project memory, operating rules, and task tracking.
+Create the Platform Scope document (`docs/001_Project/005_PLATFORM_SCOPE.md`) to define platform boundaries, supported workflows, supported file formats, device repository responsibilities, and out-of-scope areas. Update the AI Workspace (`CURRENT_TASK.md`, `MEMORY.md`, `DECISIONS.md`, `TASK_HISTORY.md`).
 
 ---
 
 ## Current Activity
 
-- Author `004_PROBLEM_STATEMENT.md` with all 12 required sections.
-- Initialize `.ai/` directory with `AGENTS.md`, `CURRENT_TASK.md`, `MEMORY.md`, and `TASK_HISTORY.md`.
-- Update persistent memory and task history logs.
-- Perform Git workflow (`git add .`, `git commit -m "docs: add problem statement and AI workspace foundation"`, `git push`).
+- Author `005_PLATFORM_SCOPE.md` with all 15 required sections.
+- Create `.ai/DECISIONS.md` and record DEC-001 (Platform Scope & Repository Boundaries).
+- Update `.ai/MEMORY.md` and `.ai/TASK_HISTORY.md`.
+- Perform Git workflow (`git add .`, `git commit -m "docs: add platform scope"`, `git push`).
 
 ---
 
@@ -32,4 +32,4 @@ Create the Problem Statement document (`docs/001_Project/004_PROBLEM_STATEMENT.m
 
 ## Next Task
 
-- `TASK-006`: Platform Scope
+- `TASK-007`: Success Criteria
