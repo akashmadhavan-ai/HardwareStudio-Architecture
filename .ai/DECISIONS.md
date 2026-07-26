@@ -118,6 +118,26 @@ Analyzing successful open-source software architectures (VS Code, FreeCAD, OpenC
 2. Authored and froze [003_OPEN_SOURCE_ANALYSIS.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/002_Research/003_OPEN_SOURCE_ANALYSIS.md).
 3. Established core recommendations for HardwareStudio: process-isolated plugin hosts (VS Code style), headless-first execution without GUI coupling, and standardized open structured data schemas (JSON/YAML, OpenUSD).
 
+---
+
+## DEC-007: Commercial Software Analysis Completed
+
+- **Status**: Accepted / Frozen
+- **Date**: 2026-07-26
+- **Task**: `TASK-011`
+- **Impacted Components**: `Research & Analysis Milestone`, `Commercial Software Analysis`
+
+### Context
+
+Analyzing commercial enterprise CAD platforms (Siemens NX, CATIA, Creo, SolidWorks, Inventor), cloud CAD engines (Autodesk Fusion, Onshape), PLM/PDM systems (Teamcenter, Windchill, ENOVIA), CAE simulation suites (Ansys, HyperWorks), manufacturing systems (Tecnomatix, Factory Design), digital twins, licensing models, and enterprise workflows provides architectural insights into enterprise-scale product lifecycle management.
+
+### Decision
+
+1. Evaluated enterprise CAD, cloud CAD, PLM/PDM, simulation, manufacturing, licensing models, and enterprise ECO workflows.
+2. Authored and froze [004_COMMERCIAL_SOFTWARE_ANALYSIS.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/002_Research/004_COMMERCIAL_SOFTWARE_ANALYSIS.md).
+3. Established core recommendations for HardwareStudio: item-centric domain data abstractions, database-centric Git-like branching versioning (Onshape style), flexible hybrid cloud/desktop deployment options, and native hardware/firmware contract engines.
+
+
 
 
 
