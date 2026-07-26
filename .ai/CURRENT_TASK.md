@@ -1,8 +1,8 @@
 # Current Engineering Task
 
-- **Milestone**: Research & Analysis
-- **Task ID**: `TASK-013`
-- **Task Name**: Gap Analysis
+- **Milestone**: Research & Analysis (Completed) / Next: Milestone 3 - Requirements Engineering
+- **Task ID**: `TASK-014`
+- **Task Name**: Feasibility Study
 - **Priority**: HIGH
 - **Status**: IN_PROGRESS
 - **Assigned To**: HardwareStudio Engineering Team & AI Agent
@@ -11,16 +11,18 @@
 
 ## Objective
 
-Conduct a comprehensive Gap Analysis (`docs/002_Research/006_GAP_ANALYSIS.md`) synthesizing all previous research (`001` through `005`) to identify workflow gaps, CAD gaps, AI gaps, visualization gaps, simulation gaps, digital twin gaps, collaboration gaps, documentation gaps, automation gaps, UX gaps, integration gaps, and scalability gaps. Update the AI Workspace (`CURRENT_TASK.md`, `MEMORY.md`, `DECISIONS.md`, `TASK_HISTORY.md`).
+Conduct a comprehensive Feasibility Study (`docs/002_Research/007_FEASIBILITY_STUDY.md`) evaluating technical, engineering, development, AI, visualization, simulation, digital twin, plugin, performance, scalability, maintainability, and commercial feasibility. Provide a definitive Go / No-Go recommendation and conclude Milestone 2 (Research & Analysis). Update the AI Workspace (`CURRENT_TASK.md`, `MEMORY.md`, `DECISIONS.md`, `TASK_HISTORY.md`).
 
 ---
 
 ## Current Activity
 
-- Author `006_GAP_ANALYSIS.md` with all 25 required section headings and sub-sections.
-- Record DEC-009 in `.ai/DECISIONS.md`.
+- Author `007_FEASIBILITY_STUDY.md` with all 28 required section headings and sub-sections.
+- Provide definitive GO recommendation.
+- Record DEC-010 in `.ai/DECISIONS.md`.
+- Conclude and freeze **Milestone 2 – Research & Analysis**.
 - Update `.ai/MEMORY.md` and `.ai/TASK_HISTORY.md`.
-- Perform Git workflow (`git add .`, `git commit -m "docs: add gap analysis"`, `git push`).
+- Perform Git workflow (`git add .`, `git commit -m "docs: add feasibility study"`, `git push`).
 
 ---
 
@@ -32,4 +34,4 @@ Conduct a comprehensive Gap Analysis (`docs/002_Research/006_GAP_ANALYSIS.md`) s
 
 ## Next Task
 
-- `TASK-014`: Feasibility Study
+- `TASK-015`: User Requirements (Initiating Milestone 3 – Requirements Engineering)
