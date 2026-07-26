@@ -99,5 +99,25 @@ Understanding the architectural approaches, strengths, weaknesses, and workflow 
 2. Authored and froze [002_COMPETITOR_ANALYSIS.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/002_Research/002_COMPETITOR_ANALYSIS.md).
 3. Derived core lessons: contract-driven hardware/software co-design, continuous real-time DRC/ERC, and deterministic AI validation guardrails.
 
+---
+
+## DEC-006: Open Source Architectural Analysis Completed
+
+- **Status**: Accepted / Frozen
+- **Date**: 2026-07-26
+- **Task**: `TASK-010`
+- **Impacted Components**: `Research & Analysis Milestone`, `Open Source Analysis`
+
+### Context
+
+Analyzing successful open-source software architectures (VS Code, FreeCAD, OpenCascade, Blender, Three.js, OpenUSD, ROS 2, Eclipse Ditto, Continue, Aider, Docker, Git) provides architectural evidence regarding repository organization, modularity, plugin hosts, data models, build toolchains, testing strategies, and community practices.
+
+### Decision
+
+1. Evaluated open-source projects across CAD modeling, visualization, scene formats, robotics, digital twins, AI assistants, and core infrastructure.
+2. Authored and froze [003_OPEN_SOURCE_ANALYSIS.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/002_Research/003_OPEN_SOURCE_ANALYSIS.md).
+3. Established core recommendations for HardwareStudio: process-isolated plugin hosts (VS Code style), headless-first execution without GUI coupling, and standardized open structured data schemas (JSON/YAML, OpenUSD).
+
+
 
 
