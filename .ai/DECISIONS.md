@@ -41,3 +41,23 @@ To maintain operational continuity across tasks, developers and AI agents requir
 ### Decision
 
 Established the `.ai/` directory containing `AGENTS.md` (operating guidelines), `CURRENT_TASK.md` (active activity state), `MEMORY.md` (architectural context), `DECISIONS.md` (decision log), and `TASK_HISTORY.md` (chronological task log).
+
+---
+
+## DEC-003: Platform Evaluation & Success Criteria Methodology
+
+- **Status**: Accepted / Frozen
+- **Date**: 2026-07-26
+- **Task**: `TASK-007`
+- **Impacted Components**: `Evaluation Methodology`, `Quality Benchmarks`, `Foundation Milestone`
+
+### Context
+
+Measuring platform success requires clear, quantifiable benchmarks across engineering, architecture, AI assistance, graphics visualization, simulation, plugin SDKs, and long-term sustainability.
+
+### Decision
+
+1. Established objective evaluation benchmarks (e.g. 100% prevention of preventable respin errors, 3x velocity improvement, >90% test coverage, 0% AI hallucination, 60 FPS graphics rendering, sub-second latency).
+2. Defined a four-pillar evaluation methodology combining automated CI/CD benchmarks, performance telemetry profiling, peer architecture audits, and quantitative user studies.
+3. Completed and froze the **Foundation Milestone** (`001_PROJECT_VISION.md` to `006_SUCCESS_CRITERIA.md`).
+

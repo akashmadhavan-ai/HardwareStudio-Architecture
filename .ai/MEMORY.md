@@ -12,12 +12,14 @@ This document stores persistent architectural context, key engineering decisions
 - **2026-07-26 (TASK-004)**: Created and froze [003_PROJECT_PHILOSOPHY.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/001_Project/003_PROJECT_PHILOSOPHY.md) (v1.0). Defined core engineering philosophy: domain fidelity, determinism, clean code as communication, AI as an augmented intelligence multiplier, and zero-warning tolerance.
 - **2026-07-26 (TASK-005)**: Created and froze [004_PROBLEM_STATEMENT.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/001_Project/004_PROBLEM_STATEMENT.md) (v1.0) and initialized the AI Workspace under `.ai/`.
 - **2026-07-26 (TASK-006)**: Created and froze [005_PLATFORM_SCOPE.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/001_Project/005_PLATFORM_SCOPE.md) (v1.0) and recorded DEC-001 in `.ai/DECISIONS.md`. Established platform vs device repository boundaries.
+- **2026-07-26 (TASK-007)**: Created and froze [006_SUCCESS_CRITERIA.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/001_Project/006_SUCCESS_CRITERIA.md) (v1.0) and recorded DEC-003 in `.ai/DECISIONS.md`. Established evaluation methodology and completed the **Foundation Milestone** (`001_PROJECT_VISION.md` to `006_SUCCESS_CRITERIA.md`).
 
 ---
 
 ## Architecture Notes
 
 - All documentation in `docs/` is organized by numerical ordering (`001_Project/`, `002_Research/`, `003_Requirements/`, etc.).
+- The **Foundation Milestone** (`001_Project/` documents 001 to 006) is fully complete and frozen, providing the strategic baseline for all future research, requirements, and architecture specifications.
 - Early foundation documents focus strictly on vision, goals, philosophy, problem statements, and requirements without locking into specific programming languages or software frameworks.
 
 ---
