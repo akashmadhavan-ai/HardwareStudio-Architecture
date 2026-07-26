@@ -61,3 +61,23 @@ Measuring platform success requires clear, quantifiable benchmarks across engine
 2. Defined a four-pillar evaluation methodology combining automated CI/CD benchmarks, performance telemetry profiling, peer architecture audits, and quantitative user studies.
 3. Completed and froze the **Foundation Milestone** (`001_PROJECT_VISION.md` to `006_SUCCESS_CRITERIA.md`).
 
+---
+
+## DEC-004: Research & Analysis Phase Initiated
+
+- **Status**: Accepted / Frozen
+- **Date**: 2026-07-26
+- **Task**: `TASK-008`
+- **Impacted Components**: `Research & Analysis Milestone`, `Market Analysis`
+
+### Context
+
+Before designing architecture or making technology choices, a comprehensive, evidence-based research phase must be conducted to understand the broader market ecosystem, competitor landscape, technology state, and industry trends.
+
+### Decision
+
+1. Initiated the **Research & Analysis Milestone**.
+2. Authored and froze [001_MARKET_ANALYSIS.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/002_Research/001_MARKET_ANALYSIS.md) covering CAD software landscapes, digital twins, AI platforms, PLM systems, simulation tools, collaboration friction, open-source ecosystems, and industry opportunities/risks.
+3. Established that research documents remain technology-neutral and focused on evidence-based analysis prior to architectural decisions.
+
+

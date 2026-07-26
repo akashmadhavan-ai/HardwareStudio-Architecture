@@ -13,13 +13,15 @@ This document stores persistent architectural context, key engineering decisions
 - **2026-07-26 (TASK-005)**: Created and froze [004_PROBLEM_STATEMENT.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/001_Project/004_PROBLEM_STATEMENT.md) (v1.0) and initialized the AI Workspace under `.ai/`.
 - **2026-07-26 (TASK-006)**: Created and froze [005_PLATFORM_SCOPE.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/001_Project/005_PLATFORM_SCOPE.md) (v1.0) and recorded DEC-001 in `.ai/DECISIONS.md`. Established platform vs device repository boundaries.
 - **2026-07-26 (TASK-007)**: Created and froze [006_SUCCESS_CRITERIA.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/001_Project/006_SUCCESS_CRITERIA.md) (v1.0) and recorded DEC-003 in `.ai/DECISIONS.md`. Established evaluation methodology and completed the **Foundation Milestone** (`001_PROJECT_VISION.md` to `006_SUCCESS_CRITERIA.md`).
+- **2026-07-26 (TASK-008)**: Initiated **Research & Analysis Milestone**. Created and froze [001_MARKET_ANALYSIS.md](file:///d:/HardwareStudio/HardwareStudio%20Architecture/HardwareStudio-Architecture/docs/002_Research/001_MARKET_ANALYSIS.md) (v1.0) and recorded DEC-004 in `.ai/DECISIONS.md`.
 
 ---
 
 ## Architecture Notes
 
 - All documentation in `docs/` is organized by numerical ordering (`001_Project/`, `002_Research/`, `003_Requirements/`, etc.).
-- The **Foundation Milestone** (`001_Project/` documents 001 to 006) is fully complete and frozen, providing the strategic baseline for all future research, requirements, and architecture specifications.
+- The **Foundation Milestone** (`001_Project/` documents 001 to 006) is fully complete and frozen.
+- The **Research & Analysis Milestone** (`002_Research/` documents 001 to 007) is active. Research documents remain technology-neutral and evidence-based.
 - Early foundation documents focus strictly on vision, goals, philosophy, problem statements, and requirements without locking into specific programming languages or software frameworks.
 
 ---
